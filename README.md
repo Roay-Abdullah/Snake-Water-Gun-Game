@@ -73,26 +73,26 @@ The focus of this repository is **learning by building**, rather than creating a
 
 ## 📚 Concepts I Practiced
 
-*Variables and data types*
-*Dictionaries*
-*Conditional statements*
-*Functions*
-*Global vs local variables*
-*GUI widgets (Button, Label)*
-*Event handling*
-*Basic game logic implementation*
+- Variables and data types
+- Dictionaries
+- Conditional statements
+- Functions
+- Global vs local variables
+- GUI widgets (Button, Label)
+- Event handling
+- Basic game logic implementation
 
 
 ## 🔮 Future Improvements
 
-*Improve the GUI layout and design*
-*Add images or icons for Snake, Water, and Gun*
-*Add a Restart Game button*
-*Refactor the code using Object-Oriented Programming (OOP)*
-*Add sound effects for better user experience*
+- Improve the GUI layout and design
+- Add images or icons for Snake, Water, and Gun
+- Add a Restart Game button
+- Refactor the code using Object-Oriented Programming (OOP)
+- Add sound effects for better user experience*
 
 
 ## ⭐ Final Note
-This project is part of my learning journey in Python.
-If you’re also starting out, feel free to explore, modify, and improve it.
+This project is part of my learning journey in Python.<br>
+If you’re also starting out, feel free to explore, modify, and improve it.<br>
 If you find this project helpful or interesting, consider giving it a ⭐ on GitHub!
